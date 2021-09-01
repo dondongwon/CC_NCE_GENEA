@@ -8,7 +8,6 @@ from .layers import *
 from .speech2gesture import *
 from .joint_late_cluster_soft_transformer import *
 from .style_classifier import *
-from .gesticulator import *
 
 ## GAN model which is a combination of Generator and Discriminator from Models
 from .gan import *
