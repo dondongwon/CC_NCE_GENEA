@@ -44,7 +44,7 @@ This repo is divided into the following sections:
 Clone only the master branch,
 
 ```sh
-git clone https://github.com/dondongwon/cc_nce.git
+git clone https://github.com/dondongwon/CC_NCE_GENEA.git
 ```
 
 ## Set up Environment
