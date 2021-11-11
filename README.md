@@ -6,7 +6,7 @@ This is the official repository for the paper *Crossmodal clustered contrastive 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Links: [Paper](https://openreview.net/pdf?id=o8CpxaBurZQ), [Presentation Video](https://youtu.be/L5dHXTpCkeI) [Dataset Website [1]](http://chahuja.com/pats)
+Links: [Paper](https://openreview.net/pdf?id=o8CpxaBurZQ), [Presentation Video](https://youtu.be/L5dHXTpCkeI), [Dataset Website [1]](http://chahuja.com/pats)
 
 <!-- Bibtex:
 
